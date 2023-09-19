@@ -33,46 +33,6 @@ using **data crawlers** and **community contributions**
 Community contributions allow the platform to gain content and teach ML based on all the content from the project. Contributors gaining tokens to convert them to the AI requests API
 
 
-# Team 
-
-```
-UI/UX Designer and SMM expert with a strong
-background in finance and crypto, inspired by Web 3
-and blockchain excellence. Combines exceptional BA
-experience with a keen eye for design to create
-intuitive, engaging user experiences in the
-decentralized landscape.
-```
-###### Avrora Pakhomova
-
-
-```
-AI Architect with expertise in mathematical modelling,
-artificial intelligence, Big Data and Software Engineering.
-Holds dual Master's degrees in Distributed Systems and
-Computational Finance, in process of PhD in Economics.
-Versatile professional with experience across the
-petroleum industry, banking, trading, and life sciences.
-```
-###### Semyon Semyonov
-
-```
-Solutions and Systems Architect with more than 15
-years of production experience in DevOps and
-software engineering. Expert in designing and
-delivery of solutions of any scale with most of
-modern technologies.
-```
-###### Anton Mefed
-
-```
-Bachelor in Computer Security. Software architect
-with 10 +y. experience in building cross-platform
-solutions, decentralized team lead
-```
-###### Roman Cores
-
-
 # BLOCKCHAIN OVERVIEW
 
 - **Crawlers:** Web crawlers are designed to scrape different websites and gather
